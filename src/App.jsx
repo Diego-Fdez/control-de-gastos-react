@@ -137,7 +137,9 @@ function App() {
                     gastoEditar={gastoEditar}
                     setGastoEditar={setGastoEditar}
                   />}
-
+        <footer>
+          <h2>© Copyright Diego Fedez</h2>
+        </footer>
       </div>
   )
 }
